@@ -1,6 +1,6 @@
 # Healthcare Plans Policy Update Tracker
 
-![Healthcare Plans Policy Update Tracker](https://your-image-link-here.png)
+![Healthcare Plans Policy Update Tracker](https://github.com/ohmyilya/policy-tracker)
 
 ## Table of Contents
 
@@ -18,8 +18,6 @@
 The **Healthcare Plans Policy Update Tracker** is a Python-based project designed to help you efficiently track updates to healthcare plans policies and automatically summarize them using OpenAI's ChatGPT summarization capabilities. This tool aims to simplify the often complex and time-consuming task of monitoring healthcare policy changes, making it an invaluable asset for healthcare professionals, policy analysts, and anyone interested in staying informed about healthcare policy updates.
 
 Tracking healthcare plans policies is crucial in ensuring compliance, understanding regulatory changes, and making informed decisions within the healthcare industry. Our project automates the process and provides clear and concise summaries to keep you well-informed without the need for extensive manual research.
-
-![Screenshot of Healthcare Plans Policy Update Tracker](https://your-screenshot-link-here.png)
 
 ## Features
 
