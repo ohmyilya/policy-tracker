@@ -1,7 +1,5 @@
 # Healthcare Plans Policy Update Tracker
 
-![Healthcare Plans Policy Update Tracker](https://github.com/ohmyilya/policy-tracker)
-
 ## Table of Contents
 
 - [Introduction](#introduction)
